@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Dispatcher, Bot
 from bot_answers import bot_commands, bot_messages, state_handler
 
-bot = Bot("5647971616:AAEUmfKipJ7t2rk-tbIHcYHGfZWNTyg5WaM")
+bot = Bot("TOKEN")
 
 
 async def main():
